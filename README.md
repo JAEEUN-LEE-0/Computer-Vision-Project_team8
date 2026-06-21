@@ -43,7 +43,7 @@ Computer-Vision-Project_team8
 2. 런타임 유형을 GPU로 설정합니다.
 3. 셀을 순서대로 실행합니다.
    - 셀 1~3: 라이브러리 설치 및 Kaggle 데이터셋 다운로드
-   - 셀 4~16: 데이터 탐색, 시각화, train/val/test 분할
+   - 셀 4~16: 데이터 탐색, 시각화, 데이터 전처리
    - 셀 17~18: YOLOv8n 학습
    - 셀 19~23: 평가 및 예측 결과 저장
    - 셀 24: Confidence Threshold 비교 실험
