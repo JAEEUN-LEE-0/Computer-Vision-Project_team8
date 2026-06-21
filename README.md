@@ -4,6 +4,7 @@
 
 ## 프로젝트 구조
 
+```text
 Computer-Vision-Project_team8
 │
 ├── road_damaged_YOLO.ipynb
@@ -11,8 +12,7 @@ Computer-Vision-Project_team8
 ├── dataset/
     ├── dataset.zip
     └── dataset.z01 ~ dataset.z07
-
-
+```
 
 ## 프로젝트 개요
 
