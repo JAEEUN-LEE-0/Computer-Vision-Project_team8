@@ -9,7 +9,7 @@ Computer-Vision-Project_team8
 │
 ├── road_damaged_YOLO.ipynb
 ├── README.md
-├── dataset/
+└─── dataset/
     ├── dataset.zip
     └── dataset.z01 ~ dataset.z07
 ```
