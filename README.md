@@ -3,13 +3,16 @@
 도로 이미지에서 **Pothole(포트홀)**, **Crack(균열)**, **Manhole(맨홀)** 을 탐지하는 Object Detection 프로젝트입니다. Ultralytics YOLOv8을 기반으로 학습하였으며, 모델 크기(YOLOv8n vs YOLOv8s)에 따른 성능 비교 실험을 포함합니다.
 
 ## 프로젝트 구조
+
 Computer-Vision-Project_team8
 │
 ├── road_damaged_YOLO.ipynb
 ├── README.md
 ├── dataset/
-      ├── dataset.zip
-      └── dataset.z01 ~ dataset.z07 
+    ├── dataset.zip
+    └── dataset.z01 ~ dataset.z07
+
+
 
 ## 프로젝트 개요
 
