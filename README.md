@@ -1,4 +1,4 @@
-# 도로 파손 탐지 (Road Damage Detection) - YOLOv8
+# 도로 파손 객체 탐지 (Road Damage Object Detection) - YOLOv8
 
 도로 이미지에서 **Pothole(포트홀)**, **Crack(균열)**, **Manhole(맨홀)** 을 탐지하는 Object Detection 프로젝트입니다. Ultralytics YOLOv8을 기반으로 학습하였으며, 모델 크기(YOLOv8n vs YOLOv8s)에 따른 성능 비교 실험을 포함합니다.
 
